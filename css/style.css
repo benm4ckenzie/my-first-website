@@ -1,0 +1,47 @@
+body {
+    margin: o;
+    padding: 0;
+    font-family: 'Felipa', cursive;
+}
+nav ul {
+    list-style: none;
+    background-color: #6B6B69;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    font-size: 1.5em;
+    line-height: 50px;
+    height: 50px;
+    display: inline-block;
+    margin-left: 2.5%;
+}
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+}
+nav a:hover {
+    background-color: #ffffff;
+    color: #6B6B69;
+}
+.card {
+    float: left;
+    width: 19%;
+    margin-left: 5%;
+}
+.card2 {
+    float: left;
+    width: 11%;
+    margin-left: 5%;
+}
+.card a {
+    text-align: center;
+}
+img {
+    width: 100%;
+}
+h2 {
+    text-align: center;
+}
