@@ -23,8 +23,8 @@ nav a {
     display: block;
 }
 nav a:hover {
-    background-color: #ffffff;
-    color: #6B6B69;
+    background-color: #6B6B69;
+    color: #000000;
 }
 .card {
     float: left;
@@ -41,7 +41,18 @@ nav a:hover {
 }
 img {
     width: 100%;
+    height: 100%;
 }
 h2 {
     text-align: center;
 }
+.box1 {
+      width: 300px;
+      height: 300px;
+      padding: 20px;
+      border: 10px dotted #FF201B;}
+      .box2 {
+      width: 200px;
+      height: 200px;
+      padding: 20px;
+      border: 10px dotted #FF201B;}
